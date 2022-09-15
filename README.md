@@ -15,6 +15,11 @@ Mugo got away with these crimes for long, because no one could easily establish 
 
 The worst part? Innocent citizens suffered under Mugo’s supposed medical care. Mugo never understood medical ethics, and he committed serious sexual abuses againts his patients. How many Kenyans are suffering under people like Mugo and his ilk?
 
+https://www.the-star.co.ke/news/2020-10-28-quack-doctor-mugo-wa-wairimu-sentenced-to-three-years-in-jail/
+
+
+https://www.kenyans.co.ke/news/62537-inside-govts-new-system-nab-fake-certificates
+
 
 ## Solution
 Open [Demo Video](https://youtu.be/SkRT-Hs1K_0) 
