@@ -1,34 +1,30 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Problem Statement
 
-## Getting Started
+Hello, my name is Kelly, a Web3 writer and communications strategist.
+I am part of the team submitting for the NFT Certs Platform.
 
-First, run the development server:
+Two years ago, a Kenyan court sentenced quack doctor Mugo wa Wairimu for 11 years. Mugo was found guilty of running an unlicensed clinic. 
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Mugo wa Wairimu was further charged for:
+unlawfully operating an unregistered pharmacy
+operating a medical lab without registration and licence
+operating a medical clinic without a registration and licence
+practising as an unregistered and unlicensed person
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Mugo got away with these crimes for long, because no one could easily establish his academic or professional background.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+The worst part? Innocent citizens suffered under Mugo’s supposed medical care. Mugo never understood medical ethics, and he committed serious sexual abuses againts his patients. How many Kenyans are suffering under people like Mugo and his ilk?
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Solution
+Open [Demo Video](https://youtu.be/SkRT-Hs1K_0) 
 
-## Learn More
+With a few taps on the phone, people can access verified certificates from a blockchain network, acknowledging the genuinity of personnel and services they are getting.
 
-To learn more about Next.js, take a look at the following resources:
+Our project aims at mitigating such occurrences at the earliest convenience. Here is Allan, with an explanation of how the NFT Certification Platform works.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Technology Stack
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
